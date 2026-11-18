@@ -1,0 +1,21 @@
+
+# Datasets (download separately from Kaggle)
+creditcard.csv
+insurance.csv
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
